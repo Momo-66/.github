@@ -43,7 +43,7 @@
 </br>
 
 ---
-## 주요 가치
+## **주요 가치**
 </br>
 
 ### 🕹️Gamification(재미)
@@ -52,10 +52,11 @@
 </br>
 
 ---
-## 주요 기술
+## **주요 기술**
 </br>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">  
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -63,7 +64,7 @@
 
 ---
 
-### Contributor
+## **Contributor**
 - **기획** 
 
     안득균
@@ -71,7 +72,7 @@
 
      장동혁([[@JDhyeok]](https://github.com/JDhyeok)) : PM,FE, BE
 
-     홍수경([[@onmay16]](https://github.com/onmay16)) : FE
+     홍수경([[@onmay16]](https://github.com/onmay16)) : FE, BE
 
      장경준([[@excel42]](https://github.com/excel42)) : Infra, DB
      
@@ -84,7 +85,7 @@
 </br>
 
 ---
-### Contact me
+## **Contact** 
 </br>
 
 
